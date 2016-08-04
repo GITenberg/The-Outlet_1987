@@ -1,0 +1,32 @@
+_repo: The-Outlet_1987
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Andy
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '773'
+    url: http://www.gutenberg.org/2009/agents/773
+    wikipedia: http://en.wikipedia.org/wiki/Andy_Adams_%28writer%29
+description: The Civil War changed the contours of the United States in countless
+  ways -- including the business landscape. In the aftermath of the conflict, Texas
+  cattle companies began trading their livestock with buyers in the Pacific Northwest.
+  The Outlet is a gripping account of the first grueling cattle drives to the region
+  -- and the indefatigable ranchers and laborers who brought this long-deferred dream
+  to fruition.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: The Outlet
+url: http://www.gutenberg.org/ebooks/1987
