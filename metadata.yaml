@@ -1,5 +1,8 @@
 _repo: The-Outlet_1987
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, Andy
@@ -14,6 +17,8 @@ description: The Civil War changed the contours of the United States in countles
   The Outlet is a gripping account of the first grueling cattle drives to the region
   -- and the indefatigable ranchers and laborers who brought this long-deferred dream
   to fruition.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1987#The-Outlet
 gutenberg_bookshelf: Western
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
